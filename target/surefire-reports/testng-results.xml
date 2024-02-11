@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-04T17:43:40Z" name="Suite" finished-at="2024-02-04T17:43:43Z" duration-ms="2458">
+    <groups>
+    </groups>
+    <test started-at="2024-02-04T17:43:40Z" name="Test" finished-at="2024-02-04T17:43:43Z" duration-ms="2458">
+      <class name="restAPIBDD.APIOperationsTest">
+        <test-method signature="DeleteOperationWithHashMap()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:43:40Z" name="DeleteOperationWithHashMap" finished-at="2024-02-04T17:43:41Z" duration-ms="1316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteOperationWithHashMap -->
+        <test-method signature="GetOperation()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:43:41Z" name="GetOperation" finished-at="2024-02-04T17:43:41Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetOperation -->
+        <test-method signature="GetOperationWithPathParameters()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:43:41Z" name="GetOperationWithPathParameters" finished-at="2024-02-04T17:43:42Z" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetOperationWithPathParameters -->
+        <test-method signature="GetOperationWithQueryParameters()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:43:42Z" name="GetOperationWithQueryParameters" finished-at="2024-02-04T17:43:42Z" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetOperationWithQueryParameters -->
+        <test-method signature="PostOperationWithHashMap()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:43:42Z" name="PostOperationWithHashMap" finished-at="2024-02-04T17:43:43Z" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostOperationWithHashMap -->
+        <test-method signature="PutOperationWithHashMap()[pri:0, instance:restAPIBDD.APIOperationsTest@2ea41516]" started-at="2024-02-04T17:43:43Z" name="PutOperationWithHashMap" finished-at="2024-02-04T17:43:43Z" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutOperationWithHashMap -->
+      </class> <!-- restAPIBDD.APIOperationsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
